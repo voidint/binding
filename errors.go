@@ -124,4 +124,6 @@ const (
 	ContentTypeError     = "ContentTypeError"
 	DeserializationError = "DeserializationError"
 	TypeError            = "TypeError"
+	BusinessError        = "BusinessError"
+	SystemError          = "SystemError"
 )
